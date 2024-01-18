@@ -2,6 +2,10 @@ from django.http import HttpResponse
 import datetime
 from django.views.generic import TemplateView, ListView
 from reportes.models import Agente
+
+
+
+
 #creo :c ahhahaha ya será un problema para itzel del futuro xdxd emmm ir a mi pagina donde viene los metodos y ver para que sirven cada uno xdxdxd y poner el correcto y luego poner agente ahhhh no se xdxdxd 
 #list view tiene más metodos y está nefocada en hacer una lista de objetos de una base de datos :3 gracias!!!! 
 
