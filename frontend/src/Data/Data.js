@@ -21,23 +21,23 @@ import {
   export const SidebarData = [
     {
       icon: UilEstate,
-      heading: "Dashboard",
+      heading: "Panel",
     },
-    {
-      icon: UilClipboardAlt,
-      heading: "Orders",
-    },
-    {
-      icon: UilUsersAlt,
-      heading: "Customers",
-    },
-    {
-      icon: UilPackage,
-      heading: 'Products'
-    },
+    // {
+    //   icon: UilClipboardAlt,
+    //   heading: "Orders",
+    // },
+    // {
+    //   icon: UilUsersAlt,
+    //   heading: "Customers",
+    // },
+    // {
+    //   icon: UilPackage,
+    //   heading: 'Products'
+    // },
     {
       icon: UilChart,
-      heading: 'Analytics'
+      heading: 'Estatísticas'
     },
   ];
   
