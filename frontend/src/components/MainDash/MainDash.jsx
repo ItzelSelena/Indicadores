@@ -5,7 +5,7 @@ import "./MainDash.css";
 const MainDash = () => {
   return (
     <div className="MainDash">
-      <h1> </h1>
+      <h1>Hola </h1>
       <Cards/>
       <Table/>
     </div>
