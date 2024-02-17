@@ -7,7 +7,7 @@ from django.urls import path, re_path, include  # Importa las funciones de enrut
 from django.views.generic import TemplateView  # Importa la vista genérica de plantilla de Django
 from django.conf.urls.static import static  # Importa la función static para servir archivos estáticos
 from django.conf import settings  # Importa la configuración del proyecto Django
-from reportes.views import 
+from reportes.views import CardsDataAPIView, ChartDataAPIView
 #MyTokenObtainPairView, get_perfil, SelectItemsDDA  # Importa las vistas personalizadas del proyecto
 
 from rest_framework_simplejwt.views import (
@@ -17,7 +17,8 @@ from rest_framework_simplejwt.views import (
 urlpatterns = [
     path('admin/', admin.site.urls),  # Ruta para acceder a la interfaz de administración de Django
     path('reportes/', include('reportes.urls')),  # Ruta para incluir las URLs de la aplicación 'reportes'
-
+    path('api/cards/data', CardsDataAPIView),  # Ruta para incluir las URLs de la API de la aplicación 'reportes'
+    path('api/cards/data', ChartDataAPIView),
 
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)  # Ruta para servir archivos multimedia
 
