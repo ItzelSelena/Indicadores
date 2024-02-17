@@ -17,8 +17,8 @@ from rest_framework_simplejwt.views import (
 urlpatterns = [
     path('admin/', admin.site.urls),  # Ruta para acceder a la interfaz de administración de Django
     path('reportes/', include('reportes.urls')),  # Ruta para incluir las URLs de la aplicación 'reportes'
-    path('api/cards/data', CardsDataAPIView),  # Ruta para incluir las URLs de la API de la aplicación 'reportes'
-    path('api/cards/data', ChartDataAPIView),
+    path('api/cards/data', CardsDataAPIView.as_view()),  # Ruta para incluir las URLs de la API de la aplicación 'reportes'
+    path('api/cards/data', ChartDataAPIView.as_view()),
 
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)  # Ruta para servir archivos multimedia
 
