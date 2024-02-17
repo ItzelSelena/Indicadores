@@ -10,7 +10,7 @@ const Cards = () => {
     const fetchData = async () => {
       try {
         // Realizar la solicitud al endpoint
-        const response = await fetch('URL_DEL_ENDPOINT');
+        const response = await fetch('/api/cards/data');
         // Convertir la respuesta a JSON
         const data = await response.json();
         // Actualizar el estado con los datos recibidos del servidor
