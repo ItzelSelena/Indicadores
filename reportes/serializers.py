@@ -20,3 +20,5 @@ class ExcelSerializer (serializers.Serializer):
         libro = openpyxl.load_workbook(file, data_only=True)
         print(libro.worksheets)
         return validated_data
+########################################################
+#falta cargar los archivos en una tabla :3 
