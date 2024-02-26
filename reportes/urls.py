@@ -14,7 +14,7 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.urls import path, include
-from .views import current_datetime, HomeView, AgentLisView
+from .views import current_datetime, HomeView, AgentLisView, CargaArchivosApiView
 #entonces a quí se ponen los templates? las rutas,no? xD va se importan las vistas de views y se les asigna una ruta ahhh sisisi oki 
 ############### mandar al forntend
 from rest_framework.routers import DefaultRouter
@@ -34,4 +34,5 @@ urlpatterns = [
     path('apievaluacion/', include(router.urls)),
     ################# manera 2 Y ESTA ES UNA VISTA SIMPLE 
     path('evaluaciones/', ListaEvaluaciones.as_view(), name='evaluaciones'), 
+    path('cargaxlsx/', CargaArchivosApiView.as_view(), name='cargaxlsx'),
 ]

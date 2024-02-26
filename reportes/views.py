@@ -6,7 +6,7 @@ from reportes.models import Agente
 ####################### una manera de 
 from rest_framework import viewsets
 from .models import Evaluacion
-from .serializers import EvaluacionSerializer
+from .serializers import EvaluacionSerializer, ExcelSerializer
 ####################### otra manera de ordenar los datos en el backend 
 from rest_framework.views import APIView
 from rest_framework.response import Response
@@ -61,4 +61,13 @@ class ListaEvaluaciones(APIView):
             evaluacion.evaluacion for evaluacion in evaluaciones
         ]
         return Response(lista_evaluaciones)
+###########################################################
     
+class CargaArchivosApiView(APIView):
+    #importas ExcelSerializer arriba con una coma :3 
+    serializer_class = ExcelSerializer
+    def post(self, request):
+        serializer = self.serializer_class(data=request.data)
+        serializer.is_valid()
+        serializer.save()
+        return Response(serializer.validated_data)
