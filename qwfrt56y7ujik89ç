@@ -1,0 +1,314 @@
+[33mcommit 549ae70b5a4511c4f9c4aff1befe0f7d24d6a3fc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mestadisticas[m[33m, [m[1;31morigin/estadisticas[m[33m)[m
+Merge: 3b0921f5 a9676c59
+Author: ItzelSelena <selena65524@live.com>
+Date:   Sun Mar 3 17:07:22 2024 -0600
+
+    Merge branch 'estadisticas' of https://github.com/ItzelSelena/Indicadores into estadisticas
+
+[33mcommit 3b0921f59cfa28e919b5ab2c4196c4b2bc72f07d[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Sun Mar 3 17:04:27 2024 -0600
+
+    se intenta regresar a version anterior
+
+[33mcommit a9676c59b794415e466c6d49eebc5a9a78558fc2[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Sun Mar 3 16:41:41 2024 -0600
+
+    se regresa a una version anterior
+
+[33mcommit 85ded6ec453c6f91683fbaf2ed44216d8564a780[m[33m ([m[1;31morigin/frontendmenu[m[33m, [m[1;32mfrontendmenu[m[33m)[m
+Author: dannygrimaldi <71056766+dannygrimaldi@users.noreply.github.com>
+Date:   Sat Mar 2 01:46:55 2024 +0000
+
+    se actualiza el ignore
+
+[33mcommit 209efff88f22fddfa0d4413fd12064c46875834b[m
+Merge: c0b55a36 70a2021e
+Author: matamancos3000 <135998550+matamancos3000@users.noreply.github.com>
+Date:   Fri Mar 1 19:27:56 2024 -0600
+
+    otro color
+
+[33mcommit c0b55a3673ff3f5ac80d08bf96ba895a1ca3a46a[m
+Author: matamancos3000 <135998550+matamancos3000@users.noreply.github.com>
+Date:   Fri Mar 1 19:20:25 2024 -0600
+
+    intento de color
+
+[33mcommit 70a2021ee9bf9c40035aa3f9a395e31d0d6497c6[m
+Author: dannygrimaldi <71056766+dannygrimaldi@users.noreply.github.com>
+Date:   Fri Mar 1 22:00:16 2024 +0000
+
+    Se agrega grafica NTB
+
+[33mcommit 5a64bb8cb82c781ee389e8f04cf4d90fcec0bba8[m
+Author: matamancos3000 <135998550+matamancos3000@users.noreply.github.com>
+Date:   Fri Mar 1 13:22:45 2024 -0600
+
+    grafica
+
+[33mcommit 4c8b6ec56fc555f23c588c1fa8c11dbdd1a6b6f2[m
+Author: matamancos3000 <135998550+matamancos3000@users.noreply.github.com>
+Date:   Fri Mar 1 13:21:53 2024 -0600
+
+    se cambia grafica
+
+[33mcommit 166a049f33fb9521b773a798ef222dd9709cc992[m
+Author: matamancos3000 <135998550+matamancos3000@users.noreply.github.com>
+Date:   Wed Feb 28 21:29:43 2024 -0600
+
+    se cambia el css
+
+[33mcommit 4e4e3804ecdd87586c587f86867681698048cefc[m
+Author: matamancos3000 <135998550+matamancos3000@users.noreply.github.com>
+Date:   Wed Feb 28 21:28:19 2024 -0600
+
+    se cambia el ignore
+
+[33mcommit 693cec9023462774f9463d7937a65e6684c311fd[m
+Author: matamancos3000 <135998550+matamancos3000@users.noreply.github.com>
+Date:   Wed Feb 28 21:09:47 2024 -0600
+
+    Se elimina Build de ignore
+
+[33mcommit 0050dce1700d032c2f8f8b3703b56081fea470b3[m
+Merge: 607f3d43 25490060
+Author: matamancos3000 <135998550+matamancos3000@users.noreply.github.com>
+Date:   Wed Feb 28 21:00:22 2024 -0600
+
+    Ignorar frontend/node_modules en .gitignore
+
+[33mcommit 607f3d43bb34343c7aa98bc2417d2171e7ce8b07[m
+Author: matamancos3000 <135998550+matamancos3000@users.noreply.github.com>
+Date:   Wed Feb 28 20:42:24 2024 -0600
+
+    Cambios desde PC Baez
+
+[33mcommit 67933ae036b61c08adba3df7c08bb8027c489c4a[m
+Author: matamancos3000 <135998550+matamancos3000@users.noreply.github.com>
+Date:   Wed Feb 28 20:41:43 2024 -0600
+
+    Ignorar frontend/node_modules en .gitignore
+
+[33mcommit 254900607fed9f78820bdcb92fe3f8973e17df19[m
+Author: matamancos3000 <135998550+matamancos3000@users.noreply.github.com>
+Date:   Thu Feb 29 02:36:13 2024 +0000
+
+    Se elimina node_modules
+
+[33mcommit 09ec2742bb5575acf0536235df5c7e02f5bf1c2b[m
+Author: matamancos3000 <135998550+matamancos3000@users.noreply.github.com>
+Date:   Thu Feb 29 02:32:36 2024 +0000
+
+    saludos
+
+[33mcommit 9711c7a702243d5656448690051939c03fd77a12[m
+Author: matamancos3000 <135998550+matamancos3000@users.noreply.github.com>
+Date:   Thu Feb 29 02:26:53 2024 +0000
+
+    Se cambia el color de contraste de las graficas
+
+[33mcommit 7576f47f39d13e1eed2670dcca1768c0dfc7c6e0[m
+Author: matamancos3000 <135998550+matamancos3000@users.noreply.github.com>
+Date:   Thu Feb 29 02:10:31 2024 +0000
+
+    Se actializa el dashboard
+
+[33mcommit a29b2fbd770a577c2004a56216f3d559ba4f039b[m
+Author: matamancos3000 <135998550+matamancos3000@users.noreply.github.com>
+Date:   Thu Feb 29 02:02:49 2024 +0000
+
+    Se realizan cambios en el dashboard
+
+[33mcommit 5ab9fe53964fd5a2ac9868cdf50fe788d357f5e1[m
+Author: matamancos3000 <135998550+matamancos3000@users.noreply.github.com>
+Date:   Thu Feb 29 01:54:49 2024 +0000
+
+    se mejora el ingore
+
+[33mcommit c79e5b340dffdbce41a7eb852b9f361e1c04bde3[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Tue Feb 27 13:21:52 2024 -0600
+
+    se actualiza con cambio de estado en menu de baez
+
+[33mcommit 68a21c1f356da83672588171f7e7e7d16856126f[m[33m ([m[1;31morigin/ERICKREAL[m[33m)[m
+Author: dannygrimaldi <71056766+dannygrimaldi@users.noreply.github.com>
+Date:   Tue Feb 27 14:09:23 2024 +0000
+
+    se reorganiza la layout, se agregan estilos a los links
+
+[33mcommit 31c8ce6c506515b901204a4f7e6ffe7120f57a10[m
+Author: dannygrimaldi <71056766+dannygrimaldi@users.noreply.github.com>
+Date:   Tue Feb 27 13:06:03 2024 +0000
+
+    se actualiza el componente sidebar, se modifica index y app para proporcionar una mayor estructura
+
+[33mcommit 33a1e25d31825b1b344fb73acbabcebb492dd8b7[m
+Author: matamancos3000 <135998550+matamancos3000@users.noreply.github.com>
+Date:   Mon Feb 26 18:18:02 2024 -0600
+
+    intento de links
+
+[33mcommit 05a0619f3e73f77849182fcedc35948375550e95[m
+Author: matamancos3000 <135998550+matamancos3000@users.noreply.github.com>
+Date:   Mon Feb 19 14:34:18 2024 -0600
+
+    entorono virtural y start
+
+[33mcommit 0d0f0fe1f6fd0754de2b26e24507cdae949bf79d[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Thu Feb 8 12:48:53 2024 -0600
+
+    se actualizan cambios
+
+[33mcommit ed88e5bb8539991cbba98201f4c705bc71307c32[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Fri Feb 2 11:14:21 2024 -0600
+
+    .
+
+[33mcommit a1dd044dded258a7869fe6765dd54454bdb3798d[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Mon Jan 22 17:58:44 2024 -0600
+
+    actualizaciones
+
+[33mcommit c9abb4406075b827f3582bbe4327e34ce6dab51b[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Mon Jan 22 16:30:03 2024 -0600
+
+    se agrega la serie para guadalajara
+
+[33mcommit a2a6fc20154d669102bb2f76799000eca28397d6[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Mon Jan 22 13:51:47 2024 -0600
+
+    se localiza y se hace prueba sobre los colores las cards
+
+[33mcommit bac4e13240b2262d8e79045cb9f114aaafdb7593[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Mon Jan 22 11:55:24 2024 -0600
+
+    actualizacion sombra graficas
+
+[33mcommit 30bea2c5819b813116fc931951744ead826782dd[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Mon Jan 22 11:53:58 2024 -0600
+
+    se actualizan los cambios de efectos de gràficas
+
+[33mcommit b85cc657ef54afea9cba2d41c2d6114274f34dd9[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Mon Jan 22 11:49:29 2024 -0600
+
+    se actualiza poquito frontend
+
+[33mcommit fc291116732bfaf2a014b4f1e3492d3ed51e4252[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Mon Jan 22 01:44:28 2024 -0600
+
+    se cambia el color del logo
+
+[33mcommit 61ac9c0a1c86a418bca72e40deb49ebe6783a299[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Mon Jan 22 01:42:03 2024 -0600
+
+    se modifica el color del logo
+
+[33mcommit 8de1ebc0bf1747ab0af5242ed99f4267f3d45e3b[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Mon Jan 22 01:18:47 2024 -0600
+
+    se da estilo al botón de enviar para ayuda c:
+
+[33mcommit b4a9114f286ea8d963844604e66fd999f3fd5969[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Mon Jan 22 00:51:27 2024 -0600
+
+    se agrega la sección de ayuda
+
+[33mcommit b37166272da49683208d1db0c9cf8091ac69c18c[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Sun Jan 21 22:32:00 2024 -0600
+
+    tabla con información
+
+[33mcommit 72cff1c54e42df85b1112b3f8262bd77c148123a[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Sun Jan 21 20:33:39 2024 -0600
+
+    se actualiza tabla
+
+[33mcommit cc318ffc9d1eadcd971b23901eaa83b5f8c373f2[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Sun Jan 21 19:46:18 2024 -0600
+
+    logo en color blanco
+
+[33mcommit 65469866cb0c957bb2a0968a02afcabd41a8061b[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Sun Jan 21 19:43:48 2024 -0600
+
+    Co-authored-by: matamancos3000 <matamancos3000@users.noreply.github.com>
+
+[33mcommit a5378ce78ab806ceb4c70c0d1dd72d1cc86425ea[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Sun Jan 21 18:43:33 2024 -0600
+
+    se agregan actualizaciones de erick baez c:
+
+[33mcommit afa3983d2b4bddf221e11659358560e6630e29e4[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Sun Jan 21 17:56:55 2024 -0600
+
+    se crean objetos de la base de datos para usar en react
+
+[33mcommit a161ada022a3c62d771d45dc80c9b73c558ec400[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Sun Jan 21 11:13:30 2024 -0600
+
+    se implementa el sidebar y el main
+
+[33mcommit d2bda3e9f7c45cb5eadd714acc0ee50ac4c1df9e[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Sun Jan 21 02:00:05 2024 -0600
+
+    frontend integrado con sidebar y main
+
+[33mcommit bce00fadbf11862c9a6fd693b291bce19e7cc2b9[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Sat Jan 20 22:33:21 2024 -0600
+
+    solo front
+
+[33mcommit 7e581f332c88a338e6d2068ae56b931db8acea73[m[33m ([m[1;31morigin/itzelfondo2xd[m[33m, [m[1;31morigin/itzelfinalfinal[m[33m)[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Sat Jan 20 22:01:06 2024 -0600
+
+    se agrega estilo al fondo de la pagina
+
+[33mcommit f3014d46d76f8d0b9bff628e1131c36750409edf[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Sat Jan 20 16:06:43 2024 -0600
+
+    se agrega estilo al fondo de la pagina
+
+[33mcommit 13ab52613f2806f058e4351fa1c75f34479b2d04[m[33m ([m[1;31morigin/itzel[m[33m)[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Sat Jan 20 15:17:53 2024 -0600
+
+    django con react en ambos servidores para que se pueda comenzar con el frontend
+
+[33mcommit c8adee66c7494a9ac88523205caaa9ca87cea243[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Sat Jan 20 15:14:27 2024 -0600
+
+    django unificado con react funcional
+
+[33mcommit 9c8177bbb5a0dcd4dcb9b68fc1b107479d7b6aa1[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/itzel-fondo[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: ItzelSelena <selena65524@live.com>
+Date:   Tue Jan 16 10:02:38 2024 -0600
+
+    Initial commit
