@@ -63,7 +63,7 @@
   ----gray: #0642f7;
   --purple: linear-gradient(180deg, #e9f0f5 0%, #161516e7 100%);
   --pink: #db0011;
-  --glass: rgba(209, 206, 206, 0.8);
+  --glass: #f4f4f491; /*(209, 206, 206, 0.8)*/
   /* --blur: blur(4px) */
   --boxShadow: 0 0 10px rgba(185, 187, 189, 0.3); 
   --smboxShadow: -79px 51px 60px rgba(19, 18, 18, 0.08);  
