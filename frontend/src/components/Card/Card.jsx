@@ -24,12 +24,14 @@ const Card = (props) => {
 // Compact Card
 function CompactCard({ param, setExpanded }) {
   const Png = param.png;
+  const progressBarColor = param.title === "GA" ? "#FF5733" : "#3498db"; // Cambia los colores según tu preferencia
+
   return (
     <motion.div
       className="CompactCard"
       style={{
-        background: param.color.backGround
-        //boxShadow: param.color.boxShadow,
+        background: param.color.backGround,
+        boxShadow: param.color.boxShadow,
       }}
       layoutId="expandableCard"
       onClick={setExpanded}
@@ -38,6 +40,9 @@ function CompactCard({ param, setExpanded }) {
         <CircularProgressbar
           value={param.barValue}
           text={`${param.barValue}%`}
+          styles={{
+            stroke: { stroke: progressBarColor },
+          }}
         />
         <span>{param.title}</span>
       </div>

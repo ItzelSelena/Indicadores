@@ -63,21 +63,25 @@
   ----gray: #0642f7;
   --purple: linear-gradient(180deg, #e9f0f5 0%, #161516e7 100%);
   --pink: #db0011;
-  --glass: rgba(255, 255, 255, 0.54);
-  --boxShadow: 0 0 10px rgba(153, 168, 184, 0.3);
-  --smboxShadow: -79px 51px 60px rgba(19, 18, 18, 0.08);
+  --glass: #f4f4f491; /*(209, 206, 206, 0.8)*/
+  /* --blur: blur(4px) */
+  --boxShadow: 0 0 10px rgba(185, 187, 189, 0.3); 
+  --smboxShadow: -79px 51px 60px rgba(19, 18, 18, 0.08);  
   --activeItem: #ee87b254;
-}
+  
+} 
 
 .App {
   padding: 0.5rem 3.5rem;
   color: black;
-  background: linear-gradient(90deg, rgb(131, 171, 184) 4%, rgb(155, 182, 190) 25%, rgb(202, 197, 198) 63%, rgb(201, 192, 192) 100%);
+  background: rgb(184,184,184);
+background: linear-gradient(45deg, rgb(255, 255, 255) 50%, rgb(209, 4, 4) 50%);
   height: 900px;
   display: flex;
   align-items: center;
   justify-content: center;
   font-family: 'Inter', sans-serif;
+  
 }
 
 
@@ -85,6 +89,7 @@
   display: grid;
   height: 97%;
   width: 97%;
+  backdrop-filter: blur(8px);
   background: var(--glass);
   border-radius: 0.3rem;
   gap: 16px;
@@ -96,6 +101,7 @@
   .AppGlass{
     grid-template-columns: 10% 50% auto;
     overflow-y: scroll;
+    
   } 
 }
 

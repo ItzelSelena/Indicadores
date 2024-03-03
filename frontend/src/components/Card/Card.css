@@ -26,7 +26,7 @@
 .CircularProgressbar {
   width: 4rem !important;
   overflow: visible;
-}
+} 
 .CircularProgressbar-path {
   stroke: white !important;
   stroke-width: 12px !important;
