@@ -5,3 +5,11 @@ frontend/node_modules/.cache/default-development/0.pack
 frontend/node_modules/.cache/default-development/1.pack
 frontend/node_modules/.cache/default-development/index.pack
 frontend/node_modules/.cache/default-development/index.pack.old
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar el archivo yarn.lock (si estás usando Yarn)
+yarn.lock
+
+# Ignorar el archivo package-lock.json (si estás usando npm)
+package-lock.json
